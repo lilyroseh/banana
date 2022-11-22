@@ -1,0 +1,19 @@
+{
+  "name": "banana",
+  "version": "1.0.0",
+  "description": "This is my project for the autumn semester in 2022",
+  "main": "index.html",
+  "scripts": {
+    "test": "golove"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilyroseh/banana.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilyroseh/banana/issues"
+  },
+  "homepage": "https://github.com/lilyroseh/banana#readme"
+}
