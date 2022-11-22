@@ -1,0 +1,22 @@
+{
+  "name": "banana",
+  "version": "1.0.0",
+  "description": "lol",
+  "main": "index.html",
+  "scripts": {
+    "test": "golive"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lilyroseh/banana.git"
+  },
+  "author": "liltim",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lilyroseh/banana/issues"
+  },
+  "homepage": "https://github.com/lilyroseh/banana#readme",
+  "dependencies": {
+    "three": "^0.146.0"
+  }
+}
