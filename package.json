@@ -1,16 +1,17 @@
 {
   "name": "banana",
   "version": "1.0.0",
-  "description": "lol",
-  "main": "index.html",
+  "description": "",
+  "main": "index.js",
   "scripts": {
-    "test": "golive"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "npx parcel src/index.html"
   },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/lilyroseh/banana.git"
   },
-  "author": "liltim",
+  "author": "",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/lilyroseh/banana/issues"
