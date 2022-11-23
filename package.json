@@ -1,4 +1,11 @@
 {
+  "name": "load_3d_models_in_gltf_format",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+ 
+  "author": "",
+
   "repository": "#",
   "license": "UNLICENSED",
   "scripts": {
