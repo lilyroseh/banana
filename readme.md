@@ -1,5 +1,6 @@
-# Three.js - Template - Simple
-# Originally from: https://github.com/brunosimon/threejs-template-simple
+# BananaApp 🍌
+Based upon "Three.js - Template - Simple" from:
+https://github.com/brunosimon/threejs-template-simple
 
 ## Setup
 Download [Node.js](https://nodejs.org/en/download/).
